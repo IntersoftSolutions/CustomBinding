@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignaturePad/SignaturePad.iOS/Infrastructure/AppInitializer.cs">
+    <Files>
+      <File FileName="SignaturePad/SignaturePad.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="SignaturePad/SignaturePad.iOS/Main.cs" Line="15" Column="1" />
+      <File FileName="SignaturePad/SignaturePad.iOS/Info.plist" />
+      <File FileName="SignaturePad/SignaturePad.iOS/SignaturePad/SignaturePadBindingAdapter.cs" Line="21" Column="27" />
+      <File FileName="SignaturePad/SignaturePad.iOS/ViewControllers/MainViewController_iPad.cs" Line="12" Column="44" />
+      <File FileName="SignaturePad/SignaturePad.iOS/ViewControllers/UISignaturePadView.cs" Line="7" Column="33" />
+      <File FileName="SignaturePad/SignaturePad.iOS/Infrastructure/AppInitializer.cs" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

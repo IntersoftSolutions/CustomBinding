@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Inventory>
+  <Item>
+    <Name>Canon EOS 5D Mark III</Name>
+    <Image>CanonEOS5DMarkIII.jpg</Image>
+    <CategoryId>1</CategoryId>
+    <Qty>1</Qty>
+    <Price>3,489.00</Price>
+    <Location>Warehouse 01</Location>
+    <Description><![CDATA[Newly designed 22.3 Megapixel full-frame CMOS sensor, 14-bit A/D conversion, wide range ISO setting 100-25600 (L:50, H1: 51200, H2: 102400) for shooting from bright to dim light and next generation DIGIC 5+ Image Processor for enhanced noise reduction and exceptional processing speed.]]></Description>
+    <SerialNumber>B007FGZ1V0</SerialNumber>
+    <PurchaseDate>4/10/2012</PurchaseDate>
+    <Sold>0</Sold>
+    <SellDate></SellDate>
+    <Notes></Notes>
+  </Item>
+  <Item>
+    <Name>Panasonic LUMIX DMC-ZS19 Digital Camera</Name>
+    <Image>lumix.jpg</Image>
+    <CategoryId>1</CategoryId>
+    <Qty>1</Qty>
+    <Price>261.99</Price>
+    <Location>Warehouse 01</Location>
+    <Description><![CDATA[14.1 megapixels 3.0 TFT Touch Screen LCD Display POWER O.I.S. (Optical Image Stabilizer) suppresses the low-frequency vibration hand-shake component, which is physically generated when pressing the shutter button or when shooting at night with a slow shutter speed.]]></Description>
+    <SerialNumber>B00814CAS2</SerialNumber>
+    <PurchaseDate>4/10/2012</PurchaseDate>
+    <Sold>0</Sold>
+    <SellDate></SellDate>
+    <Notes></Notes>
+  </Item>
+  <Item>
+    <Name>Polaroid 300 Instant Camera PIC-300B</Name>
+    <Image>polaroid.jpg</Image>
+    <CategoryId>1</CategoryId>
+    <Qty>1</Qty>
+    <Price>69.00</Price>
+    <Location>Warehouse 01</Location>
+    <Description><![CDATA[This camera allows you to take pictures you'll see developed in front of your eyes in minutes. It's the modern version of the classic Polaroid instant camera you've grown to love and it's just in time for your wedding, anniversary, birthday or other big event!]]></Description>
+    <SerialNumber>B003B2ITI4</SerialNumber>
+    <PurchaseDate>4/10/2012</PurchaseDate>
+    <Sold>0</Sold>
+    <SellDate></SellDate>
+    <Notes></Notes>
+  </Item>
+</Inventory>

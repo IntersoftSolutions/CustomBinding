@@ -1,0 +1,15 @@
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/.NETPortable,Version=v4.0,Profile=Profile158.AssemblyAttribute.cs
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Data.Categories.xml
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Data.Inventories.xml
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Large.CanonEOS5DMarkIII.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Thumbnail.CanonEOS5DMarkIII.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Category.1.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Large.lumix.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Thumbnail.lumix.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Thumbnail.polaroid.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.Assets.Images.Large.polaroid.jpg
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/bin/Debug/SignaturePad.Core.dll.mdb
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/bin/Debug/SignaturePad.Core.dll
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.dll
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/obj/Debug/SignaturePad.Core.dll.mdb
+/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/bin/Debug/Intersoft.Crosslight.dll

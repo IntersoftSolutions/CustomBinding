@@ -1,0 +1,35 @@
+# Version: 7.2.0.2 (58c3efa)
+# [first argument, ignore] # /Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.iOS/bin/iPhoneSimulator/Debug/SignaturePadiOS.app \
+	-r \
+	/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.Core/bin/Debug/SignaturePad.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Windows.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	"/Library/Intersoft Solutions/Crosslight/1.0/Intersoft.Crosslight.dll" \
+	-r \
+	"/Library/Intersoft Solutions/Crosslight/1.0/Intersoft.Crosslight.iOS.dll" \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	3.2 \
+	--abi=i386 \
+	/Users/jevonchristian/XCodeProject/SignaturePad/SignaturePad/SignaturePad.iOS/bin/iPhoneSimulator/Debug/CrosslightAppiOS.exe \
