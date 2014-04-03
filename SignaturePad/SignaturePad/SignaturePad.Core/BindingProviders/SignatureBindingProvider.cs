@@ -8,7 +8,9 @@ namespace SignaturePad.Core
 		public SignatureBindingProvider ()
 		{
 			this.AddBinding ("SignaturePad", SignaturePadProperties.ButtonTitleProperty, "Title");
-			this.AddBinding("UpdateButton", BindableProperties.CommandProperty, "UpdateCommand");
+            this.AddBinding ("SignaturePad", SignaturePadProperties.SignProperty, new BindingDescription("SignProperty",BindingMode.TwoWay));
+
+            this.AddBinding("UpdateButton", BindableProperties.CommandProperty, "UpdateCommand");
 		}
 	}
 }

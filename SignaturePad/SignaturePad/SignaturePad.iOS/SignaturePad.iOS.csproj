@@ -106,6 +106,7 @@
     </Compile>
     <Compile Include="SignaturePad\SignaturePadBindingAdapter.cs" />
     <Compile Include="ViewControllers\UISignaturePadView.cs" />
+    <Compile Include="ViewControllers\MySignaturePad.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
@@ -125,13 +126,17 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
+    <Reference Include="Intersoft.Crosslight.iOS">
+      <HintPath>\Library\Intersoft Solutions\Crosslight\1.0\Intersoft.Crosslight.iOS.dll</HintPath>
+      <HintPath>$(CrosslightPath)\Intersoft.Crosslight.iOS.dll</HintPath>
+    </Reference>
     <Reference Include="Intersoft.Crosslight">
       <HintPath>\Library\Intersoft Solutions\Crosslight\1.0\Intersoft.Crosslight.dll</HintPath>
       <HintPath>$(CrosslightPath)\Intersoft.Crosslight.dll</HintPath>
     </Reference>
-    <Reference Include="Intersoft.Crosslight.iOS">
-      <HintPath>\Library\Intersoft Solutions\Crosslight\1.0\Intersoft.Crosslight.iOS.dll</HintPath>
-      <HintPath>$(CrosslightPath)\Intersoft.Crosslight.iOS.dll</HintPath>
+    <Reference Include="SignaturePad.iOS">
+      <HintPath>\Library\Intersoft Solutions\Crosslight\1.0\SignaturePad.iOS.dll</HintPath>
+      <HintPath>$(CrosslightPath)\SignaturePad.iOS</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />

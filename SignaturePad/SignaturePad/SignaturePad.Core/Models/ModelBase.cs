@@ -22,6 +22,9 @@ namespace SignaturePad.Models
             }
         }
 
+        public void ClearErrors()
+        {
+        }
         public void SetError(string errorMessage, string propertyName)
         {
             _validationResultList.Add(new ValidationResult(errorMessage, propertyName));

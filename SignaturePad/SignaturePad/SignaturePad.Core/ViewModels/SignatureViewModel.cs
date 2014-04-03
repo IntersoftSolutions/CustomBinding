@@ -9,6 +9,24 @@ namespace SignaturePad.Core
 	{
 
 		private string _title;
+        private byte[] _signProperty;
+
+        public byte[] SignProperty
+        {
+            get
+            {
+                return _signProperty;
+            }
+            set
+            {
+                if (_signProperty != value)
+                {
+                    _signProperty = value;
+                    this.Title = "Sucessfully changed";
+                    OnPropertyChanged ("SignProperty");
+                }
+            }
+        }
 
 		public string Title
 		{
@@ -23,14 +41,14 @@ namespace SignaturePad.Core
 			}
 		}
 
-		public DelegateCommand UpdateCommand { get; set; }
+        public DelegateCommand UpdateCommand { get; set; }
 
 		public SignatureViewModel ()
 		{
-
 			this.Title="Hello Crosslight";
-			this.UpdateCommand = new DelegateCommand(ExecuteUpdate);
+            this.UpdateCommand = new DelegateCommand(ExecuteUpdate);
 		}
+
 
 		private void ExecuteUpdate(object parameter)
 		{

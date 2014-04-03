@@ -23,14 +23,21 @@ namespace SignaturePad.iOS
 		}
         #region Methods
 
+
+        protected override void InitializeView()
+        {
+
+            base.InitializeView();
+            _signaturePad = new UISignaturePadView (this);
+            this.RegisterViewIdentifier("SignaturePad", SignaturePad);
+        }
+
         protected override void OnViewInitialized()
         {
             base.OnViewInitialized();
             this.Title = "Crosslight App";
 
-			_signaturePad = new UISignaturePadView (this);
 			this.View.AddSubview (SignaturePad);
-			this.RegisterViewIdentifier("SignaturePad", SignaturePad);
 
 			UIBarButtonItem updateButton = new UIBarButtonItem ();
 			updateButton.Title = "Update";
